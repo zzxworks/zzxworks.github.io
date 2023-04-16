@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zzxworks.github.io</id>
+    <title>zzxworks</title>
+    <updated>2023-04-16T11:51:49.487Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zzxworks.github.io"/>
+    <link rel="self" href="https://zzxworks.github.io/atom.xml"/>
+    <subtitle>欢迎来到我的小窝！</subtitle>
+    <logo>https://zzxworks.github.io/images/avatar.png</logo>
+    <icon>https://zzxworks.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, zzxworks</rights>
+    <entry>
+        <title type="html"><![CDATA[hexo搭建博客总结]]></title>
+        <id>https://zzxworks.github.io/hexo-da-jian-bo-ke-zong-jie/</id>
+        <link href="https://zzxworks.github.io/hexo-da-jian-bo-ke-zong-jie/">
+        </link>
+        <updated>2020-01-02T09:02:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="什么是独立博客">什么是独立博客？</h2>
+<p>独立博客就是区别于平台博客（如简书、知乎、豆瓣）的一种方案，特点即：</p>
+<p>域名独立（地址是什么）<br>
+空间独立（部署到哪里）<br>
+内容独立（自己即审核）<br>
+通俗来说就是 住自己的房子 与 寄人篱下 的区别。所以，我们为什么需要一个独立博客呢？</p>
+<p>希望数据属于自己，随时可以更换技术方案，而非交给某个平台，与某个平台共存亡。<br>
+希望自己设计，或不满足于平台支持的格式，希望有更多的内容表达方式。<br>
+希望有自己的短域名，任何人输入域名就进入自己的空间。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="什么是独立博客">什么是独立博客？</h2>
+<p>独立博客就是区别于平台博客（如简书、知乎、豆瓣）的一种方案，特点即：</p>
+<p>域名独立（地址是什么）<br>
+空间独立（部署到哪里）<br>
+内容独立（自己即审核）<br>
+通俗来说就是 住自己的房子 与 寄人篱下 的区别。所以，我们为什么需要一个独立博客呢？</p>
+<p>希望数据属于自己，随时可以更换技术方案，而非交给某个平台，与某个平台共存亡。<br>
+希望自己设计，或不满足于平台支持的格式，希望有更多的内容表达方式。<br>
+希望有自己的短域名，任何人输入域名就进入自己的空间。</p>
+]]></content>
+    </entry>
+</feed>
